@@ -10,10 +10,10 @@ Karaikal, Pondicherry
 ## 🎓 Certifications
 
 - **Data Science & Machine Learning** – Illinois Tech, US  
-  *Feb 2024 – Nov 2024*
+  *Feb 2024 – Dec 2024*
   
 - **Data Science & Machine Learning** – Entri Elevate  
-  *Feb 2023 – Nov 2024*  
+  *Feb 2023 – Dec 2024*  
   - Covered data analysis, data visualization, statistical modeling, and machine learning algorithms.
   - Developed projects demonstrating practical applications of machine learning.
 
